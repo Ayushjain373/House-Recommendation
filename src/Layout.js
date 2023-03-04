@@ -141,7 +141,7 @@ const Layout = () => {
   
 
       {/* /// Tabel Code///// */}
-      <div class="table-responsive-sm">
+      <div class="table-responsive-lg">
         <table className="table">
           <tbody>
             {Array(m)
